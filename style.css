@@ -80,8 +80,9 @@ body{
 }
 .d14{
 	height: 40px;
-	background-color: yellow;	
-	color: black;
+	background-color: cyan;	
+	text-align:center;
+	color:red;
 }
 .d15{
 	height: 40px;
