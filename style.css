@@ -50,9 +50,13 @@ body{
 	color: black;
 }
 .d09{
-	height: 40px;
-	background-color: yellow;	
-	color: black;
+	height: 47px;
+	background-color: black;	
+	color: white;
+}
+.d09 div{
+	width:50%;
+	margin:auto;
 }
 .d10{
 	height: 40px;
